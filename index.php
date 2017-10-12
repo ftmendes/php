@@ -6,4 +6,6 @@
 
 	echo "Git é foda"
 
+	echo "Git realmente funciona"
+
 ?>
